@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <h1> FRONTEND: </h1>
+  <h2> FRONTEND: </h2>
   <ul>
   <li> react  /  vue  /  next </li>
   <li> typescript  /  javascript  </li>
@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <h1> BACKEND: </h1>
+  <h2> BACKEND: </h2>
 
 
   <ul>
