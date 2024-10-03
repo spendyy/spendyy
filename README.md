@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightLogo.png" height="40" alt="prisma logo"  />
+  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.png" height="40" alt="prisma logo"  />
   <img width="12" />
 </div>
 
