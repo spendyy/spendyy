@@ -39,6 +39,6 @@
 ###
 
 <div style="" align="left">
-  <a href="https://t.me/sladkihsnov666"> telegram  </a>   <a href="https://discord.com/users/358907671216259072"> discord </a>
+  <a href="https://t.me/sladkihsnov666"> telegram  </a> or <a href="https://discord.com/users/358907671216259072"> discord </a>
 </div>
 
