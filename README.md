@@ -7,11 +7,11 @@
 <div align="left">
   <h1> FRONTEND: </h1>
   <ul>
-  <li> REACT | VUE | NEXT </li>
-  <li> TYPESCRIPT | JAVASCRIPT  </li>
-  <li> HTML | CSS | SCSS | TAILWIND | STYLED-COMPONENTS </li>
-  <li> REDUX TOOLKIT | ZUSTAND | VUEX </li>
-  <li> SHADCN | MATERIAL UI</li>
+  <li> REACT / VUE / NEXT </li>
+  <li> TYPESCRIPT / JAVASCRIPT  </li>
+  <li> HTML / CSS / SCSS / TAILWIND / STYLED-COMPONENTS </li>
+  <li> REDUX TOOLKIT / ZUSTAND / VUEX </li>
+  <li> SHADCN / MATERIAL UI</li>
   </ul>
  
 
@@ -25,9 +25,9 @@
 
 
   <ul>
-  <li> NODEJS | GO (LEARNING) </li>
-  <li> POSTGRESQL | MYSQL </li>
-  <li> WEBSOCKETS | SOCKET IO </li>
+  <li> NODEJS / GO (LEARNING) </li>
+  <li> POSTGRESQL / MYSQL </li>
+  <li> WEBSOCKETS / SOCKET IO </li>
   <li> PRISMA </li>
   </ul>
 </div>
