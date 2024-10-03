@@ -33,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div style="" align="left">
   <a href="https://t.me/sladkihsnov666"> telegram </a>
 </div>
 
@@ -42,5 +42,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+<style> 
+h1{
+color: red
+}
+ </style>
 
 ###
