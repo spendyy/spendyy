@@ -8,7 +8,6 @@
 
 
 <div align="left">
-  <p> hard work lover </p>
   <h2> FRONTEND: </h2>
   <ul>
   <li> react  /  vue  /  next </li>
