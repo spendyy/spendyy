@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img src="https://imgur.com/Y6D2yBu" height="40" alt="redux logo"  /> 
+  <img src="[https://imgur.com/Y6D2yBu](https://imgur.com/Y6D2yBu)" height="40"  /> 
 </div>
 
 ###
