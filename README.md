@@ -1,6 +1,6 @@
 
 
-<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="300" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/1346fa9e96746beb4ef036a22a2ee80df03a0045ed0dd7e9ce721b992a5465db.webp"  />
 
 ###
 
