@@ -14,6 +14,7 @@
   <li> typescript  /  javascript  </li>
   <li> html  /  css  /  scss  /  tailwind  /  styled-components </li>
   <li> redux toolkit  /  zustand  /  vuex </li>
+  <li> react query ui</li>
   <li> shadcn  /  material ui</li>
   </ul>
  
