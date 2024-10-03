@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <h1 style="color:red" > FRONTEND: </h1>
+  <h1 style="color:red;" > FRONTEND: </h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
