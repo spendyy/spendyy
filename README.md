@@ -5,9 +5,10 @@
 
 ###
 
-<h2> hard work lover </h2>
+
 
 <div align="left">
+  <h2> hard work lover </h2>
   <h2> FRONTEND: </h2>
   <ul>
   <li> react  /  vue  /  next </li>
