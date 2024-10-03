@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <h1 style="color:red;" > FRONTEND: </h1>
+  <h1> FRONTEND: </h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
@@ -34,7 +34,7 @@
 ###
 
 <div style="" align="left">
-  <a href="https://t.me/sladkihsnov666"> telegram </a>
+  <a href="https://t.me/sladkihsnov666"> <h1> telegram </h1> </a>
 </div>
 
 ###
