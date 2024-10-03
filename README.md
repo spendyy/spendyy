@@ -34,7 +34,7 @@
 ###
 
 <div style="" align="left">
-  <a href="https://t.me/sladkihsnov666"> <h1> telegram </h1> </a>
+  <a href="https://t.me/sladkihsnov666"> telegram  </a>
 </div>
 
 ###
