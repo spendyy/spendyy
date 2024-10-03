@@ -34,7 +34,7 @@
 
 <div align="left">
   <h1> BACKEND: </h1>
-  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkLogo.png" height="40" alt="prisma logo"  />
+  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightLogo.png" height="40" alt="prisma logo"  />
   <img width="12" />
 </div>
 
