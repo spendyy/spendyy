@@ -16,6 +16,8 @@
   <li> redux toolkit  /  zustand  /  vuex </li>
   <li> react query </li>
   <li> shadcn  /  material ui</li>
+  <li> typeorm / prisma </li>
+  <li> websockets  /  socket io </li>
   </ul>
  
 
@@ -31,8 +33,6 @@
   <ul>
   <li> nodejs  /  go (learning) </li>
   <li> postgresql  /  mysql </li>
-  <li> websockets  /  socket io </li>
-  <li> prisma </li>
   </ul>
 </div>
 
